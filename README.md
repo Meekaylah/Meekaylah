@@ -8,16 +8,14 @@
 
 🎨 A frontend developer with a deep passion for crafting elegant, user-centered web experiences.
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Meekaylah)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michaela-usanga/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:michaelausangaa@gmail.com)
+[🌐 Portfolio](https://portfolio-michaela-usanga.vercel.app/) · [💼 LinkedIn](https://www.linkedin.com/in/michaela-usanga/) · [🧑‍💻 GitHub](https://github.com/Meekaylah) ·  [📧 Gmail](mailto:michaelausangaa@gmail.com)
 
 &nbsp;&nbsp;&nbsp;
 
 **Languages and Tools:** 
 
 <!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
+You can use this api: https://github.com/anuraghazra/github-readme-stats or https://github-readme-streak-stats.herokuapp.com
 -->
 <p>
   <a href="https://github.com/Meekaylah/handle-path-oz">
