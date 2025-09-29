@@ -55,4 +55,10 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats or http
   <code><img width="5%" src="https://www.svgrepo.com/show/448266/aws.svg"></code>
   <code><img width="5%" src="https://www.svgrepo.com/show/448221/docker.svg"></code>
   <code><img width="5%" src="https://www.svgrepo.com/show/439231/mongodb.svg"></code>
+  <br />
+  <code><img width="5%" src="https://www.svgrepo.com/show/353478/bash-icon.svg"></code>
+  <code><img width="5%" src="https://www.svgrepo.com/show/353396/angular-icon.svg"></code>
+  <code><img width="5%" src="https://www.svgrepo.com/show/353397/android-icon.svg"></code>
+  <code><img width="5%" src="https://www.svgrepo.com/show/448222/figma.svg"></code>
 </p>
+
