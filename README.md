@@ -6,9 +6,9 @@
 
 🦋 Engineering elegance in every line, bringing logic to life.
 
-🎨 A frontend developer with a deep passion for crafting elegant, user-centered web experiences.
+🎨 A software with a deep passion for crafting elegant, user-centered digital experiences.
 
-[🌐 Portfolio](https://portfolio-michaela-usanga.vercel.app/) · [💼 LinkedIn](https://www.linkedin.com/in/michaela-usanga/) · [🧑‍💻 GitHub](https://github.com/Meekaylah) ·  [📧 Gmail](mailto:michaelausangaa@gmail.com)
+[🌐 Portfolio](https://portfolio-michaela-usanga.vercel.app/) · [💼 LinkedIn](https://www.linkedin.com/in/michaela-usanga/) ·  [📧 Gmail](mailto:michaelausangaa@gmail.com)
 
 &nbsp;&nbsp;&nbsp;
 
