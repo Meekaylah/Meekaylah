@@ -6,7 +6,7 @@
 
 🦋 Engineering elegance in every line, bringing logic to life.
 
-🎨 A software with a deep passion for crafting elegant, user-centered digital experiences.
+🎨 A software engineer with a deep passion for crafting elegant, user-centered digital experiences.
 
 [🌐 Portfolio](https://portfolio-michaela-usanga.vercel.app/) · [💼 LinkedIn](https://www.linkedin.com/in/michaela-usanga/) ·  [📧 Gmail](mailto:michaelausangaa@gmail.com)
 
