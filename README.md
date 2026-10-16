@@ -8,7 +8,7 @@
 
 🎨 A software engineer with a deep passion for crafting elegant, user-centered digital experiences.
 
-[🌐 Portfolio]([https://www.michaelausanga.com/]) · [💼 LinkedIn](https://www.linkedin.com/in/michaela-usanga/) ·  [📧 Gmail](mailto:michaelausangaa@gmail.com)
+[🌐 Portfolio](https://www.michaelausanga.com/) · [💼 LinkedIn](https://www.linkedin.com/in/michaela-usanga/) ·  [📧 Gmail](mailto:michaelausangaa@gmail.com)
 
 &nbsp;&nbsp;&nbsp;
 
